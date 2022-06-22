@@ -1,0 +1,21 @@
+@media only screen and (max-width:760px){
+
+
+    
+.list-header,.list-nav {
+    position: fixed;
+    display: flex;
+    background-color: aliceblue;
+    width: 80vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    margin: 0;
+    flex-direction: column;
+}
+
+
+
+}
+
